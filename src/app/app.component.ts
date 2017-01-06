@@ -9,10 +9,7 @@ import { BaMenuService } from './theme';
 import {ComponentsHelper } from 'ng2-bootstrap';
 
 import { MENU } from './app.menu';
-/*
- * App Component
- * Top Level Component
- */
+
 @Component({
   selector: 'app',
   encapsulation: ViewEncapsulation.None,
